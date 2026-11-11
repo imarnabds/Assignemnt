@@ -1,5 +1,5 @@
 # Assignemnt
-# FarAlpha Intern Assignment — Flask, MongoDB and Kubernetes
+## FarAlpha Intern Assignment — Flask, MongoDB and Kubernetes
 
 This repository implements **Part 2** of the supplied assignment: a Flask API deployed with at least two replicas, authenticated MongoDB in a StatefulSet, internal/external service access, persistent storage, HPA, DNS, and resource requests/limits.
 
